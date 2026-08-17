@@ -35,8 +35,9 @@
     </div>
 
     <div class="section">
-      <p class="resume-footnote"><?=$resume_desc?></p>
-      <a href="<?=$github?>" target="_blank"><?=$github?></a>
+      <p class="resume-footnote"><?=$resume_desc?>
+        <a href="<?=$github?>" target="_blank"><?=$github?></a>
+      </p>
     </div>
 
   </div>

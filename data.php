@@ -57,8 +57,8 @@ $experience = [
 [
   'company'     => 'Davis Sign. Co'
 , 'title'       => 'CNC Machinist'
-, 'start_time'  => 'mon 2024'
-, 'end_time'    => 'mon year'
+, 'start_time'  => 'Nov 2023'
+, 'end_time'    => 'Nov 2025'
 , 'description' => <<<'EOD'
 
 Operated a three axis 12’x6’ CNC router table and a laser engraving booth.
@@ -218,7 +218,7 @@ EOD
 ]
 ];
 
-$github = 'https://github.com/somepath';
+$github = 'https://github.com/justjosh443/resume';
 $resume_desc = <<<EOD
 I wrote this résumé in HTML.
 A digital version with source code is available at:
