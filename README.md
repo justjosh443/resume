@@ -15,10 +15,11 @@ good reasons:
 
 ## How to view and download
 
-Follow the link to see in your browser.
+Follow this link to see in your browser.
 <https://htmlpreview.github.io/?https://github.com/justjosh443/resume/blob/main/release/resume.html>
 
-Or click below to download the PDF version.
+Or follow this link for the PDF version then click the "download raw file"
+button.
 <https://github.com/justjosh443/resume/tree/main/release/resume.pdf>
 
 ## How to build
