@@ -1,6 +1,5 @@
 <?php
 $title = 'Josh Stoddard - Résumé';
-
 $contact = [
     [ 'type' => 'name', 'value' => 'Josh Stoddard' ]
   , [ 'type' => 'email', 'value' => 'justjosh443@gmail.com' ]
@@ -13,45 +12,19 @@ mechanical with strong problem‑solving skills
 and the resolve to get the job done.
 EOD;
 
-//$certifications = [
-//  'CDL class A(no restrictions/manual transmission).'
-//  , 'OSHA 10-Hour Construction Card.'
-//  , 'Forklift certified.'
-//];
-//
-//$hobbies = [
-//  'Computer code', 'Chess', 'Music', 'Geography', 'Language', 'Mechanics'
-//];
-
 $highlights = [
   'Organized and maintains a clean working environment with a professional image.'
-, 'Excellent verbal and written communication skills in English.'
+, 'Clear and succinct verbal and written communication skills.'
 , 'Very safety focused with a track record of avoiding workplace injuries and accidents.'
 , 'Clean driving record; Experience driving company vehicles/trucks without incident.'
 , 'Able to work independently with the discretion to ask for help when needed.'
 , 'Innovative and fast to adapt patterns to optimize repeated tasks.' 
-, 'CDL class A (no restrictions/manual transmission).'
-, 'Experience with forklift, bobcat, man lifts and crane trucks.'
+, '<strong>CDL class A</strong> (no restrictions/manual transmission).'
+, 'Experience with forklifts, skid steer, man lifts and crane trucks.'
 , 'OSHA 10-Hour Construction Card.'
-, 'Physically fit, good at moving things.'
+, 'Physically fit, good at moving things and pushing through grueling labor.'
 , 'Confident working at heights (ladders/lifts/scaffolding/rooftops)'
 ];
-
-// - Coach-able and willing to learn new skills.
-// - Ability to work in team environments as well as complete tasks .
-// - Very quick learner in a fast-paced, manufacturing environment.
-// - Persistent and dependable especially with attendance.
-//
-// - Able to adapt to a constantly changing environment with
-//   flexibility to work extended hours.
-//
-// - Maintain quality control standards in a fast-paced environment
-//
-// - Strong spatial awareness, mathematical aptitude, sharp attention to detail
-//   , and a collaborative team mindset
-//
-// Demonstrated ability to build and maintain relationships with a wide array of
-// people at all levels within the company.
 
 $experience = [
 [
@@ -63,7 +36,7 @@ $experience = [
 
 Operated a three axis 12’x6’ CNC router table and a laser engraving booth.
 
-I worked with a wide variety of materials including:
+I worked with a wide variety of materials including
 acrylic, ACM, PVC, aluminum, HDU, MDF, and wood. VCarve was used to program tool
 paths.
 
@@ -74,8 +47,8 @@ fasten them to the table while being machined.
 I made sure the table was properly lubricated as well as other less important
 maintenance such as camera calibration, tool changes and cleaning.
 
-I would often find ways to optimize the nesting or speed of the tools to reduce
-wasted time and materials.
+I would often find ways to optimize the material nesting or tool feeds/speeds
+to reduce wasted time and materials.
 
 Kept track of inventory and notified by boss when items needed to be restocked.
 
@@ -119,12 +92,13 @@ and trim and proper heat-gun and squeegee techniques.
 Assisted with the installation of large wall murals and applied logos
 (partial wraps) to vehicles including vans and commercial vehicles.
 
-I helped with the survey and planning processes.
-
+I completed a lot of surveys and collaborated with various teams to create a
+working installation plan.
+ 
 EOD
 ], [
   'company'     => 'Jane’s Gypsum Floors'
-, 'title'       => 'Construction Labourer'
+, 'title'       => 'Construction Laborer'
 , 'start_time'  => 'Mar 2021'
 , 'end_time'    => 'Dec 2021'
 , 'description' => <<<'EOD'
@@ -188,7 +162,7 @@ I utilized responsive and mobile-first design to create modern feeling web sites
 that look great on all devices.
 
 Primary technology stack consisted of:
-HTML/CSS, JavaScript, Docker, GIT, SQL/Postgres and nginx
+HTML/CSS, JavaScript, React, Docker, GIT, SQL/Postgres and nginx.
 
 AWS was used for hosting services, primarily Linux running on a single EC2
 instance.
@@ -202,17 +176,14 @@ EOD
 , 'end_time'    => 'Jan 2019'
 , 'description' => <<<'EOD'
 
-This position was very similar to the Davis Sign Co job above with several key
-differences.
+This position was very similar to the Davis Sign Co job listed above with
+several key differences.
 
 The CNC router table used was a smaller 4’x8’ model and was programmed using
 EnRoute instead of VCarve.
 
-A lot of lit aluminum channel letters where created here and I also worked in
-assembly wiring and working a channel bending machine.
-
-My biggest achievement was reducing wasted materials by 50% at least that's what
-someone in the office told me.
+I built a lot of channel letters by operating a channel bending machine and 
+assembling and wiring the signs.
 
 EOD
 ]

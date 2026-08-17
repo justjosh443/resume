@@ -13,12 +13,13 @@ good reasons:
 * Using CSS makes it easier to ensure styles are consistent.
 * Show off some programming skills.
 
-## How to view
+## How to view and download
 
 Follow the link to see in your browser.
-<https://htmlpreview.github.io/?https://github.com/justjosh443/resume/blob/main/release/index.html>
+<https://htmlpreview.github.io/?https://github.com/justjosh443/resume/blob/main/release/resume.html>
 
 Or click below to download the PDF version.
+<https://github.com/justjosh443/resume/tree/main/release/resume.pdf>
 
 ## How to build
 
@@ -31,7 +32,7 @@ Or use the WSL:
 On Linux or Mac install the PHP package and run the following command
 to generate the html from the source files.
 
-```php index.php > release/index.html```
+```php index.php > release/resume.html```
 
 This project is designed so that everything gets compressed into a single html
 file for maximum portability.

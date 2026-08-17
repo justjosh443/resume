@@ -1,2 +1,2 @@
 #!/bin/bash
-php index.php > release/index.html
+php index.php > release/resume.html

@@ -99,9 +99,9 @@ ul#contact > li > svg {
   /*font-style:italic;*/
 }
 
-.experience-detail {
-  display:flex;
-}
+strong { font-family:Bold, sans-serif; }
+
+.experience-detail { display:flex; }
 
 @page { size: letter; margin: 0; }
 
@@ -110,11 +110,14 @@ ul#contact > li > svg {
   .page {
     box-shadow: none;
     page-break-after: always;
-    border: none;
+    border:0;
+    margin:0;
+    padding:0;
+    padding:.75in;
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .page {
     height:100%;
     margin:0;
